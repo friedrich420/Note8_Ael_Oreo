@@ -19,7 +19,7 @@ obj-$(CONFIG_CPU_FREQ_GOV_BLU_ACTIVE)   += cpufreq_blu_active.o
 obj-$(CONFIG_CPU_FREQ_GOV_DARKNESS)     += cpufreq_darkness.o
 obj-$(CONFIG_CPU_FREQ_GOV_BIOSHOCK)	+= cpufreq_bioshock.o
 obj-$(CONFIG_CPU_FREQ_GOV_INTERACTIVE_PRO)	+= cpufreq_interactive_pro.o
-//obj-$(CONFIG_CPU_FREQ_GOV_CULTIVATION)	+= cpufreq_cultivation.o
+obj-$(CONFIG_CPU_FREQ_GOV_CULTIVATION)	+= cpufreq_cultivation.o
 obj-$(CONFIG_CPU_FREQ_GOV_CAFACTIVE)	+= cpufreq_cafactive.o
 
 obj-$(CONFIG_CPUFREQ_DT)		+= cpufreq-dt.o
