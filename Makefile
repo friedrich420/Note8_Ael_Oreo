@@ -1,10 +1,6 @@
 VERSION = 4
 PATCHLEVEL = 4
-<<<<<<< HEAD
 SUBLEVEL = 131
-=======
-SUBLEVEL = 125
->>>>>>> parent of 229e5fcd... revert CPU OC for now
 EXTRAVERSION =
 NAME = Blurry Fish Butt
 
